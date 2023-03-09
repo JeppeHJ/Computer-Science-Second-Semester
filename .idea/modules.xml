@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lecture01_Recursion/Lecture01_Recursion.iml" filepath="$PROJECT_DIR$/Lecture01_Recursion/Lecture01_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture02_Recursion_Help/Lecture02_Recursion_Help.iml" filepath="$PROJECT_DIR$/Lecture02_Recursion_Help/Lecture02_Recursion_Help.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture03_Recusion3/Lecture03_Recusion3.iml" filepath="$PROJECT_DIR$/Lecture03_Recusion3/Lecture03_Recusion3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture04_TimeComplexity/Lecture04_TimeComplexity.iml" filepath="$PROJECT_DIR$/Lecture04_TimeComplexity/Lecture04_TimeComplexity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture05_CollectionFramework/Lecture05_CollectionFramework.iml" filepath="$PROJECT_DIR$/Lecture05_CollectionFramework/Lecture05_CollectionFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture06_Lambda/Lecture06_Lambda.iml" filepath="$PROJECT_DIR$/Lecture06_Lambda/Lecture06_Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture07_Git/Lecture07_Git.iml" filepath="$PROJECT_DIR$/Lecture07_Git/Lecture07_Git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture08_09_Project/Lecture08_09_Project.iml" filepath="$PROJECT_DIR$/Lecture08_09_Project/Lecture08_09_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming2.iml" filepath="$PROJECT_DIR$/Programming2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SU_Lecture_Test/SU_Lecture_Test.iml" filepath="$PROJECT_DIR$/SU_Lecture_Test/SU_Lecture_Test.iml" />
+    </modules>
+  </component>
+</project>
